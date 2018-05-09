@@ -5,6 +5,7 @@ import SoloDatePicker from './DatePicker.js';
 import {CANAMADE_ITEMS_FABRIC, CONTROL_SIZE, FRACTIONS} from '../context/Constants'
 import Fabric from './CanaMadeFabric.js'
 import {Consumer} from '../context/MyContext.js'
+import {handleCanaMadeDataPiece} from '../context/MyContext.js'
 var math = require('mathjs');
 
 
